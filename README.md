@@ -14,7 +14,7 @@ Modern observability is built on three fundamental pillars:
 2. **Logging** - Explains why it is happening
 3. **Tracing** - Shows how it is happening
 
-![Observability Pillars](image.png)
+![Observability Pillars](images/image1.png)
 
 > **Note:** While monitoring focuses specifically on metrics, alerts, and dashboards, true observability encompasses all three pillars working together to provide comprehensive system insights.
 
